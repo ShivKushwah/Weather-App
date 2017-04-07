@@ -7,5 +7,8 @@ Features:
 - DarkSky API for weather forecasting
 - Material Design   
 
+
+![Alt text](/Screenshot_20170406-222328.png?raw=true "Screenshot 1")
+
 Demo Video: https://youtu.be/Po-5mYl3yZk
 
